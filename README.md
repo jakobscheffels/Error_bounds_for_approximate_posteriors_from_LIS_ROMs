@@ -1,1 +1,1 @@
-# Error Bounds for Approxiamte Posteriors from Likelihood-informed Reduced-order Models
+# Error Bounds for Approximate Posteriors from Likelihood-informed Reduced-order Models
