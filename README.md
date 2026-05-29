@@ -1,1 +1,1 @@
-# Likelihood-informed Model Reduction for Bayesian Inference of Static Structural Loads
+# Error Bounds for Approximate Posteriors from Likelihood-informed Reduced-order Models
